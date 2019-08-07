@@ -9,7 +9,7 @@
 
 ## Question 1
 How do you see the files changed within each commit from git log?  
-* Running `$ git log --stat` within a git bash terminal will show the files being changed within each commit.   
+* Running `git log --stat` within a git bash terminal will show the files being changed within each commit.   
 
 ## Question 2
 How do you see the contents of what changed within each file from the git log?
